@@ -1,0 +1,35 @@
+html, body{
+	height: 100%;
+}
+.app-view {
+	min-width: 1024px;
+}
+.side-content {
+	background-color: rgb(179, 22, 22);
+	border:  1px solid red;
+}
+.main-content{
+	background-color: rgb(241, 134, 134);
+}
+.header {
+	height: 100px;
+	background-color: rgb(233, 50, 50);
+}
+
+
+
+
+/*Medium devices (tablets, 768px and up)*/
+/* @media (min-width: 768px) {
+	
+} */
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+	
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
